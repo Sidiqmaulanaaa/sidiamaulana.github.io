@@ -11,8 +11,8 @@ cur = con.cursor()
 
 
 print(" Program Demo Operasi CRUD PostgreSQL Database ")
-print("       Sidiq Maulana Abdulloh (19/447128/SV/16847)            ")
-print("================================================\n")
+print("  Sidiq Maulana Abdulloh (19/447128/SV/16847)  ")
+print("=====================================================\n")
 print("Menu Operasi Database")
 print("1. Create database dan tabel")
 print("2. Insert data")
